@@ -31,7 +31,7 @@ you can keep a clear conscience: http://skaarhoj.com/about/licenses/
 #define ATEMmin_h
 
 //#include "Arduino.h"
-#include "ATEMbase-particle.h"
+#include "../ATEMbase-particle/ATEMbase-particle.h"
 
 
 class ATEMmin : public ATEMbase
