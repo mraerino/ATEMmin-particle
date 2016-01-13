@@ -1,0 +1,7 @@
+{
+  "name": "ATEMmin-particle",
+  "author": "Marcus Weiner <marcus@mlsrv.de> / SKAARHOJ K/S <info@skaarhoj.com>",
+  "license": "GPL v3",
+  "version": "0.1.0",
+  "description": "A library to control a BMD ATEM switcher in the local network - min library"
+}
